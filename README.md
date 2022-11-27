@@ -6,10 +6,12 @@
 
 ## Para rodar a aplicação:
 
-    --> Abra o diretório do projeto em um terminal e insira o comando "npm install" para instalar todas as dependências necessárias do projeto.
+    --> 1) Abra o diretório do projeto em um terminal e insira o comando "npm install" para instalar todas as dependências necessárias do projeto.
 
-            --> Abra o projeto em um novo terminal e insira o comando "npm run backend" para a aplicação rodar também o back-end, que foi feito utilizando json-server para a simulação de uma API com um banco de dados.
+            --> 2) Abra o projeto em um novo terminal e insira o comando "npm run backend" para a aplicação rodar também o back-end, que foi feito utilizando json-server para a simulação de uma API com um banco de dados.
 
-                    --> Com o backend rodando, volte para o primeiro terminal e insira o comando "npm start", que iniciará a aplicação.
+                    --> 3) Com o backend rodando, volte para o primeiro terminal e insira o comando "npm start", que iniciará a aplicação.
 
-                            --> Navegue e explore a plataforma ConectJob.
+                            --> 4) Navegue e explore a plataforma ConectJob :)
+                            
+<h3> <b>OBS: Caso você inicie a plataforma e a lista de candidatos esteja em branco e novos candidatos cadastrados não estiverem aparecendo, o back-end não está rodando. O passo 2 para rodar a aplicação, que está logo acima, deve ser realizado.  </b> </h3>
