@@ -1,0 +1,78 @@
+{
+  "candidatos": [
+    {
+      "name": "Gustavo Garcia Wuelta",
+      "mail": "gustavo.wuelta@gmail.com",
+      "language": "(11) 94180-9501",
+      "years": "19",
+      "formac": "Tecnólogo",
+      "hist": "Sem experiência profissional",
+      "ic": "Estudante de ADS, Português nativo e Inglês intermediário",
+      "niveis": {
+        "id": "1",
+        "name": "Estágio"
+      },
+      "id": 1
+    },
+    {
+      "name": "Kauã Borge Barreto",
+      "years": "18",
+      "mail": "borgebarretok@gmail.com",
+      "formac": "Tecnólogo",
+      "language": "(11) 93959-1786",
+      "hist": "Freelances em edição de vídeos",
+      "ic": "Estudante de ADS, inglês intermediário",
+      "niveis": {
+        "id": "2",
+        "name": "Júnior"
+      },
+      "id": 2
+    },
+    {
+      "name": "Luana Mitsudo Coelho",
+      "years": "21",
+      "mail": "mitsudo.luana@gmail.com",
+      "formac": "Tecnólogo",
+      "language": "(11) 94262-0242",
+      "hist": "4 anos como desenvolvedora front-end na Coca-Cola e 2 anos como desenvolvedora na PicPay",
+      "ic": "Português nativo, Inglês avançado. Espanhol básico",
+      "niveis": {
+        "id": "4",
+        "name": "Sênior"
+      },
+      "id": 3
+    },
+    {
+      "name": "Vinicius Mota dos Reis ",
+      "years": "19",
+      "mail": "vinireis_28@icloud.com",
+      "formac": "Tecnólogo",
+      "language": "(11) 94782-2501",
+      "hist": "2 anos como desenvolvedor back-end na Accenture",
+      "ic": "Português nativo, Inglês intermediário",
+      "niveis": {
+        "id": "3",
+        "name": "Pleno"
+      },
+      "id": 4
+    }
+  ],
+  "niveis": [
+    {
+      "id": 1,
+      "name": "Estágio"
+    },
+    {
+      "id": 2,
+      "name": "Júnior"
+    },
+    {
+      "id": 3,
+      "name": "Pleno"
+    },
+    {
+      "id": 4,
+      "name": "Sênior"
+    }
+  ]
+}
